@@ -13,8 +13,8 @@ Every great magician needs an assistant. Sometimes, however, relying on another 
 Arthur C. Clarke's 3rd law states "Any sufficiently advanced technology is indistinguishable from magic." So go ahead, pick a card. Your magician's assistant will be waiting.
 
 ## Presentation
-[Chatbots with Watson Assitant](https://slides.com/upkar/nexmo-ibm)
-[Workshop](https://github.com/lidderupk/watson-assistant-restaurant)
+- [Chatbots with Watson Assitant](https://slides.com/upkar/nexmo-ibm)
+- [Workshop](https://github.com/lidderupk/watson-assistant-restaurant)
 
 ## Other Links
 * [Chatbot online meetup series](https://github.com/lidderupk/ibm-chatbot-series)
